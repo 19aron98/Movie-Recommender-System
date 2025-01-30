@@ -7,7 +7,7 @@
 Project repo: https://github.com/
 ```
 
-### STEP 2 - Create a conda environment after opening the repository
+### STEP 2: Create a conda environment after opening the repository
 
 ```bash
 conda create -n recommender python -y
@@ -17,7 +17,7 @@ conda create -n recommender python -y
 conda activate recommender
 ```
 
-### STEP 3 - install the requirements
+### STEP 3: Install the requirements
 ```bash
 pip install -r requirements.txt
 ```
