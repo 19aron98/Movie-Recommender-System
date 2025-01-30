@@ -30,3 +30,10 @@ Install all the necessary Python packages listed in the `requirements.txt` file:
 ```bash
 pip install -r requirements.txt
 ```
+
+### STEP 4: Run Web-app
+Finally, run the web application library `Streamlit` in the terminal using the below command:
+
+```bash
+streamlit run app.py
+```
