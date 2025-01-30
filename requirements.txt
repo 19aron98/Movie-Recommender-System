@@ -1,7 +1,8 @@
 streamlit
 pandas
-numpy
 #scikit-learn
-#pickle
-#requests
+pickle
+requests
+dotenv
+nltk
 -e .
