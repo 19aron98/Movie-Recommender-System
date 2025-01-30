@@ -1,15 +1,13 @@
 # Movie-Recommender-System
 
 # How to run?
-### STEPS: 
-
-Clone the repository
+### STEP 1: Clone the repository
 
 ```bash
 Project repo: https://github.com/
 ```
 
-### STEP 01- Create a conda environment after opening the repository
+### STEP 2 - Create a conda environment after opening the repository
 
 ```bash
 conda create -n recommender python -y
@@ -19,7 +17,7 @@ conda create -n recommender python -y
 conda activate recommender
 ```
 
-### STEP 02- install the requirements
+### STEP 3 - install the requirements
 ```bash
 pip install -r requirements.txt
 ```
